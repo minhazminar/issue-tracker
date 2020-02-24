@@ -1,0 +1,6 @@
+[submodule "issuetracker-web"]
+	path = issuetracker-web
+	url = https://github.com/minhazminar/issuetracker-web.git
+[submodule "issuetracker-back"]
+	path = issuetracker-back
+	url = https://github.com/minhazminar/issuetracker-back.git
